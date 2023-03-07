@@ -9,3 +9,4 @@ function curry(callback) {
     }
   };
 }
+module.exports=curry
